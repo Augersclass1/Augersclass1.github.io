@@ -7,48 +7,8 @@ body {
   background-color: #f5f5f5;
 }
 
-/* Sidebar menu */
-.side-menu {
-  width: 220px;
-  background-color: #222;
-  color: #fff;
-  padding: 20px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  overflow-y: auto;
-}
 
-.side-menu h2 {
-  font-size: 1.3em;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  border-bottom: 1px solid #444;
-  padding-bottom: 10px;
-  margin-bottom: 15px;
-}
 
-.side-menu ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.side-menu li {
-  margin: 10px 0;
-}
-
-.side-menu a {
-  color: #ddd;
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-.side-menu a:hover {
-  color: #fff;
-}
-
-/* Main content area */
 main {
   margin-left: 240px;
   padding: 40px;
